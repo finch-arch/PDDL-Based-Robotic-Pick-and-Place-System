@@ -1,5 +1,4 @@
 
-# pddl-behaviourTree
 =======
 # pyTAMP-MoveIt Bridge
 
